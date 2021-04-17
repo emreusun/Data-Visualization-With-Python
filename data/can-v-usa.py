@@ -23,4 +23,5 @@ plt.title("Canada vs Usa medal chart", pad="22")
 plt.legend(["CAN", "USA" ])
 # run the show method (this lives inside the pyplot package)
 # this will generate a graph in a new window
+
 plt.show()
