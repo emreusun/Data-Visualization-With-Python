@@ -1,0 +1,21 @@
+/* quick reset*/
+
+* {
+	border:none;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+.hidden {
+	display: none;
+}
+
+.data-graphic {
+	border: thin dashed blue;
+	width: 30%;
+}
